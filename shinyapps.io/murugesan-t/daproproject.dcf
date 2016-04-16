@@ -1,0 +1,10 @@
+name: daproproject
+account: murugesan-t
+server: shinyapps.io
+appId: 94929
+bundleId: 421687
+url: https://murugesan-t.shinyapps.io/daproproject/
+when: 1460809088.17415
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: app1/server.R|app1/ui.R|Presentation/daproproject.html|Presentation/daproproject.md|Presentation/daproproject.Rpres
